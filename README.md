@@ -1,6 +1,7 @@
 # aws-lambda
 
 # CompareMyself
+This application is built using AWS lambda service as a backend, dynamodb for database and frontend using AngularJs
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.0.3.
 
