@@ -1,5 +1,3 @@
-# aws-lambda
-
 # CompareMyself
 This application is built using AWS lambda service as a backend, dynamodb for database and frontend using AngularJs
 
